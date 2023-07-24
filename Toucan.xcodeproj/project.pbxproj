@@ -250,10 +250,9 @@
 			};
 			buildConfigurationList = 740AC3E41999799900AB9A86 /* Build configuration list for PBXProject "Toucan" */;
 			compatibilityVersion = "Xcode 8.0";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 			);
 			mainGroup = 740AC3E01999799900AB9A86;
