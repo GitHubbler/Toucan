@@ -236,11 +236,11 @@
 				TargetAttributes = {
 					740AC3E91999799900AB9A86 = {
 						CreatedOnToolsVersion = 6.0;
-						LastSwiftMigration = 0910;
+						LastSwiftMigration = "";
 					};
 					740AC3F41999799900AB9A86 = {
 						CreatedOnToolsVersion = 6.0;
-						LastSwiftMigration = 0910;
+						LastSwiftMigration = "";
 					};
 					C4D770E31C2BF2C800B15C64 = {
 						CreatedOnToolsVersion = 7.2;
@@ -470,7 +470,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -498,7 +498,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -519,7 +519,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "au.net.bunney.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -536,7 +536,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "au.net.bunney.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
